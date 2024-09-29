@@ -1,0 +1,10 @@
+{
+    "bucket_name": "ram1234345678",
+    "security_group_id": "sg-0716b3ddaafb7542a",
+    "instance_id": "i-0b17a165a42938bbf",
+    "load_balancer_arn": "arn:aws:elasticloadbalancing:us-west-2:975050024946:loadbalancer/app/Ramwebapp-lb1/7ead9d0b87879368",
+    "target_group_arn": "arn:aws:elasticloadbalancing:us-west-2:975050024946:targetgroup/Ramwebapp-tg1/46b30c08c538fe64",
+    "launch_template_id": "lt-0f342b58593b5c12d",
+    "auto_scaling_group_name": "Ram_ASG",
+    "sns_topic": "arn:aws:sns:us-west-2:975050024946:Ram-sns"
+}
